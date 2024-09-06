@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.codsoft.todo.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/layout_list_item_layout.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/layout/list_item_layout.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/layout_activity_completed_tasks.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/layout/activity_completed_tasks.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.codsoft.todo.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/menu_menu_main.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/drawable_task.png.flat",
+        "source": "com.codsoft.todo.app-main-7:/drawable/task.png"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.codsoft.todo.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.codsoft.todo.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/layout_dialog_set_reminder.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/layout/dialog_set_reminder.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/layout_dialog_add_task.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/layout/dialog_add_task.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/drawable_empty.png.flat",
+        "source": "com.codsoft.todo.app-main-7:/drawable/empty.png"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/layout_list_item_task.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/layout/list_item_task.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/drawable_todoicon.png.flat",
+        "source": "com.codsoft.todo.app-main-7:/drawable/todoicon.png"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.codsoft.todo.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.codsoft.todo.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.codsoft.todo.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/layout_dialog_task_options.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/layout/dialog_task_options.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.codsoft.todo.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/layout_reminder_item.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/layout/reminder_item.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/drawable_whitebg.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/drawable/whitebg.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/drawable_border.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/drawable/border.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/drawable_complete.png.flat",
+        "source": "com.codsoft.todo.app-main-7:/drawable/complete.png"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.codsoft.todo.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/menu_menu_view_reminders.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/menu/menu_view_reminders.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/drawable_circleborder.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/drawable/circleborder.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.codsoft.todo.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/drawable_arrow.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/drawable/arrow.xml"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/drawable_sdffsd_modified.png.flat",
+        "source": "com.codsoft.todo.app-main-7:/drawable/sdffsd_modified.png"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/drawable_gg.jpg.flat",
+        "source": "com.codsoft.todo.app-main-7:/drawable/gg.jpg"
+    },
+    {
+        "merged": "com.codsoft.todo.app-merged_res-5:/drawable_notification.xml.flat",
+        "source": "com.codsoft.todo.app-main-7:/drawable/notification.xml"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/layout_list_item_favorite.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/layout/list_item_favorite.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable_sdffsd_modified.png.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable/sdffsd_modified.png"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable_add.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable/add.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/layout_activity_view_favorites.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/layout/activity_view_favorites.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.codsoft.quotes.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable_appicon.png.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable/appicon.png"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.codsoft.quotes.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.codsoft.quotes.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable_quote.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable/quote.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable_star.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable/star.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable_circle_white_border.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable/circle_white_border.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.codsoft.quotes.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable_black_border.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable/black_border.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable_circle.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable/circle.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable_quotesbgimg.jpg.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable/quotesbgimg.jpg"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable_circle_border.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable/circle_border.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/menu_menu_main.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable_xyz.jpg.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable/xyz.jpg"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.codsoft.quotes.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.codsoft.quotes.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.codsoft.quotes.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.codsoft.quotes.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.codsoft.quotes.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.codsoft.quotes.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable_empty.png.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable/empty.png"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable_baseline_share_24.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable/baseline_share_24.xml"
+    },
+    {
+        "merged": "com.codsoft.quotes.app-merged_res-29:/drawable_baseline_refresh_24.xml.flat",
+        "source": "com.codsoft.quotes.app-main-31:/drawable/baseline_refresh_24.xml"
+    }
+]

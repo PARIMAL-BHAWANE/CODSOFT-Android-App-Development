@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_view_proctor_details.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_view_proctor_details.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_fragment_leave_request.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/fragment_leave_request.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "com.example.vtop.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_employee_login.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_employee_login.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_selectimg.png.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/selectimg.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/menu_menu_main.xml.flat",
+        "source": "com.example.vtop.app-main-39:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_whiteblack.xml.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/whiteblack.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_online_booking.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_online_booking.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_list_item_layout.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/list_item_layout.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_employee_send_message.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_employee_send_message.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_student_login.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_student_login.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_leave_requests_details.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_leave_requests_details.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_parents.png.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/parents.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_back.jpg.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/back.jpg"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_vtopbg.jpg.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/vtopbg.jpg"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_lavender_border.xml.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/lavender_border.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_dialog_leave_details.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/dialog_leave_details.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_baseline_my_location_24.xml.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/baseline_my_location_24.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_border.xml.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/border.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_employee_dashboard.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_employee_dashboard.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_change_password.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_teacherdefault.png.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/teacherdefault.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_blackwhite.xml.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/blackwhite.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_list_item_leave_request.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/list_item_leave_request.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_mess_selection.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_mess_selection.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_backborder.xml.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/backborder.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_message_from_proctor.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_message_from_proctor.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_android.xml.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/android.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_menuicon.png.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/menuicon.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_leave_details_popup.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/leave_details_popup.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_leave_request.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_leave_request.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_photo.jpg.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/photo.jpg"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_sdffsd.png.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/sdffsd.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/menu_nav_menu.xml.flat",
+        "source": "com.example.vtop.app-main-39:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_blackkwhite.xml.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/blackkwhite.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_alumni.png.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/alumni.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_employees.png.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/employees.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_list_item_leave_history.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/list_item_leave_history.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_attendance_details.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_attendance_details.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.vtop.app-pngs-32:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_student_registration.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_student_registration.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_fragment_leave_history.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/fragment_leave_history.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_list_item_attendance.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/list_item_attendance.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_vtopapp.jpg.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/vtopapp.jpg"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_sidebarbutton.png.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/sidebarbutton.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_vitlogo.png.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/vitlogo.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_fragment_leave_status.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/fragment_leave_status.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_password.xml.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/password.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_student.png.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/student.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_employee_registration.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_employee_registration.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.vtop.app-main-39:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_startup.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_startup.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_whiteborder.xml.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/whiteborder.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/anim_fade_in_animation.xml.flat",
+        "source": "com.example.vtop.app-main-39:/anim/fade_in_animation.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_white_background.xml.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/white_background.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.vtop.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_view_credentials_actvity.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_view_credentials_actvity.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/drawable_hello.xml.flat",
+        "source": "com.example.vtop.app-main-39:/drawable/hello.xml"
+    },
+    {
+        "merged": "com.example.vtop.app-merged_res-37:/layout_activity_splash.xml.flat",
+        "source": "com.example.vtop.app-main-39:/layout/activity_splash.xml"
+    }
+]

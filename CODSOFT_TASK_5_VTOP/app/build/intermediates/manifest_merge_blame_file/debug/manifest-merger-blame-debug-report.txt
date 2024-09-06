@@ -1,0 +1,278 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.coeta"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:5:5-80
+11-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:8:5-67
+14-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:8:22-64
+15
+16    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+17    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[com.google.firebase:firebase-database:20.2.2] C:\Users\parim\.gradle\caches\transforms-3\5beeccd6d4c3e3f7a12afa88dc169a62\transformed\firebase-database-20.2.2\AndroidManifest.xml:24:5-79
+18-->[com.google.firebase:firebase-database:20.2.2] C:\Users\parim\.gradle\caches\transforms-3\5beeccd6d4c3e3f7a12afa88dc169a62\transformed\firebase-database-20.2.2\AndroidManifest.xml:24:22-76
+19
+20    <permission
+20-->[androidx.core:core:1.9.0] C:\Users\parim\.gradle\caches\transforms-3\2a6b8d47231ddcb1817ffe241541665b\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+21        android:name="com.example.coeta.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+21-->[androidx.core:core:1.9.0] C:\Users\parim\.gradle\caches\transforms-3\2a6b8d47231ddcb1817ffe241541665b\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+22        android:protectionLevel="signature" />
+22-->[androidx.core:core:1.9.0] C:\Users\parim\.gradle\caches\transforms-3\2a6b8d47231ddcb1817ffe241541665b\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+23
+24    <uses-permission android:name="com.example.coeta.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+24-->[androidx.core:core:1.9.0] C:\Users\parim\.gradle\caches\transforms-3\2a6b8d47231ddcb1817ffe241541665b\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+24-->[androidx.core:core:1.9.0] C:\Users\parim\.gradle\caches\transforms-3\2a6b8d47231ddcb1817ffe241541665b\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+25
+26    <application
+26-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:10:5-85:19
+27        android:allowBackup="true"
+27-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:11:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.9.0] C:\Users\parim\.gradle\caches\transforms-3\2a6b8d47231ddcb1817ffe241541665b\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+29        android:dataExtractionRules="@xml/data_extraction_rules"
+29-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:12:9-65
+30        android:debuggable="true"
+31        android:extractNativeLibs="false"
+32        android:fullBackupContent="@xml/backup_rules"
+32-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:13:9-54
+33        android:icon="@mipmap/ic_launcher"
+33-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:14:9-43
+34        android:label="@string/app_name"
+34-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:15:9-41
+35        android:supportsRtl="true"
+35-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:16:9-35
+36        android:testOnly="true"
+37        android:theme="@style/Theme.COETA" >
+37-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:17:9-43
+38        <activity
+38-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:19:9-21:40
+39            android:name="com.example.coeta.AttendanceDetailsActivity"
+39-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:20:13-54
+40            android:exported="false" />
+40-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:21:13-37
+41        <activity
+41-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:22:9-24:40
+42            android:name="com.example.coeta.EmployeeSendMessageActivity"
+42-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:23:13-56
+43            android:exported="false" />
+43-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:24:13-37
+44        <activity
+44-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:25:9-27:40
+45            android:name="com.example.coeta.MessageFromProctorActivity"
+45-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:26:13-55
+46            android:exported="false" />
+46-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:27:13-37
+47        <activity
+47-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:28:9-30:40
+48            android:name="com.example.coeta.ViewProctorDetailsActivity"
+48-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:29:13-55
+49            android:exported="false" /> <!-- <activity -->
+49-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:30:13-37
+50        <!-- android:name=".SplashActivity" -->
+51        <!-- android:exported="false" /> -->
+52        <activity
+52-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:33:9-35:40
+53            android:name="com.example.coeta.StartupActivity"
+53-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:34:13-44
+54            android:exported="false" />
+54-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:35:13-37
+55        <activity
+55-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:36:9-38:40
+56            android:name="com.example.coeta.ViewCredentialsActvity"
+56-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:37:13-51
+57            android:exported="false" />
+57-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:38:13-37
+58        <activity
+58-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:39:9-41:40
+59            android:name="com.example.coeta.ChangePasswordActivity"
+59-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:40:13-51
+60            android:exported="false" />
+60-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:41:13-37
+61        <activity
+61-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:42:9-44:40
+62            android:name="com.example.coeta.MessSelectionActivity"
+62-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:43:13-50
+63            android:exported="false" />
+63-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:44:13-37
+64        <activity
+64-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:45:9-47:40
+65            android:name="com.example.coeta.LeaveRequestsDetailsActivity"
+65-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:46:13-57
+66            android:exported="false" />
+66-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:47:13-37
+67        <activity
+67-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:48:9-50:40
+68            android:name="com.example.coeta.EmployeeDashboardActivity"
+68-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:49:13-54
+69            android:exported="false" />
+69-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:50:13-37
+70        <activity
+70-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:51:9-53:40
+71            android:name="com.example.coeta.EmployeeRegistrationActivity"
+71-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:52:13-57
+72            android:exported="false" />
+72-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:53:13-37
+73        <activity
+73-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:54:9-56:40
+74            android:name="com.example.coeta.EmployeeLoginActivity"
+74-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:55:13-50
+75            android:exported="false" />
+75-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:56:13-37
+76        <activity
+76-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:57:9-59:40
+77            android:name="com.example.coeta.StudentRegistrationActivity"
+77-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:58:13-56
+78            android:exported="false" />
+78-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:59:13-37
+79        <activity
+79-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:60:9-62:40
+80            android:name="com.example.coeta.StudentLoginActivity"
+80-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:61:13-49
+81            android:exported="false" />
+81-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:62:13-37
+82        <activity
+82-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:63:9-75:20
+83            android:name="com.example.coeta.SplashActivity"
+83-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:64:13-43
+84            android:exported="true"
+84-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:65:13-36
+85            android:launchMode="singleTop"
+85-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:66:13-43
+86            android:screenOrientation="fullSensor"
+86-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:67:13-51
+87            android:theme="@style/SplashTheme" >
+87-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:68:13-47
+88            <intent-filter>
+88-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:70:13-74:29
+89                <action android:name="android.intent.action.MAIN" />
+89-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:71:17-69
+89-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:71:25-66
+90
+91                <category android:name="android.intent.category.LAUNCHER" />
+91-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:73:17-77
+91-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:73:27-74
+92            </intent-filter>
+93        </activity>
+94        <activity
+94-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:76:9-78:40
+95            android:name="com.example.coeta.LeaveRequestActivity"
+95-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:77:13-49
+96            android:exported="false" />
+96-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:78:13-37
+97        <activity
+97-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:79:9-81:40
+98            android:name="com.example.coeta.OnlineBookingActivity"
+98-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:80:13-50
+99            android:exported="false" />
+99-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:81:13-37
+100        <activity
+100-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:82:9-84:39
+101            android:name="com.example.coeta.MainActivity"
+101-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:83:13-41
+102            android:exported="true" />
+102-->C:\Users\parim\OneDrive\Desktop\CODSOFT_TASK_5_VTOP\app\src\main\AndroidManifest.xml:84:13-36
+103
+104        <service
+104-->[com.google.firebase:firebase-database:20.2.2] C:\Users\parim\.gradle\caches\transforms-3\5beeccd6d4c3e3f7a12afa88dc169a62\transformed\firebase-database-20.2.2\AndroidManifest.xml:28:9-34:19
+105            android:name="com.google.firebase.components.ComponentDiscoveryService"
+105-->[com.google.firebase:firebase-database:20.2.2] C:\Users\parim\.gradle\caches\transforms-3\5beeccd6d4c3e3f7a12afa88dc169a62\transformed\firebase-database-20.2.2\AndroidManifest.xml:29:13-84
+106            android:directBootAware="true"
+106-->[com.google.firebase:firebase-common:20.3.2] C:\Users\parim\.gradle\caches\transforms-3\d5e0b8bcedbc45e44d700028737512ef\transformed\firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+107            android:exported="false" >
+107-->[com.google.firebase:firebase-database:20.2.2] C:\Users\parim\.gradle\caches\transforms-3\5beeccd6d4c3e3f7a12afa88dc169a62\transformed\firebase-database-20.2.2\AndroidManifest.xml:30:13-37
+108            <meta-data
+108-->[com.google.firebase:firebase-database:20.2.2] C:\Users\parim\.gradle\caches\transforms-3\5beeccd6d4c3e3f7a12afa88dc169a62\transformed\firebase-database-20.2.2\AndroidManifest.xml:31:13-33:85
+109                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+109-->[com.google.firebase:firebase-database:20.2.2] C:\Users\parim\.gradle\caches\transforms-3\5beeccd6d4c3e3f7a12afa88dc169a62\transformed\firebase-database-20.2.2\AndroidManifest.xml:32:17-109
+110                android:value="com.google.firebase.components.ComponentRegistrar" />
+110-->[com.google.firebase:firebase-database:20.2.2] C:\Users\parim\.gradle\caches\transforms-3\5beeccd6d4c3e3f7a12afa88dc169a62\transformed\firebase-database-20.2.2\AndroidManifest.xml:33:17-82
+111            <meta-data
+111-->[com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\parim\.gradle\caches\transforms-3\8e56f6b4915744992fd84eecb9ff9edd\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:14:13-16:85
+112                android:name="com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar"
+112-->[com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\parim\.gradle\caches\transforms-3\8e56f6b4915744992fd84eecb9ff9edd\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:15:17-122
+113                android:value="com.google.firebase.components.ComponentRegistrar" />
+113-->[com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\parim\.gradle\caches\transforms-3\8e56f6b4915744992fd84eecb9ff9edd\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:16:17-82
+114            <meta-data
+114-->[com.google.firebase:firebase-storage:20.2.1] C:\Users\parim\.gradle\caches\transforms-3\34501a3ab929e5765642517634aaa5ee\transformed\firebase-storage-20.2.1\AndroidManifest.xml:32:13-34:85
+115                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+115-->[com.google.firebase:firebase-storage:20.2.1] C:\Users\parim\.gradle\caches\transforms-3\34501a3ab929e5765642517634aaa5ee\transformed\firebase-storage-20.2.1\AndroidManifest.xml:33:17-107
+116                android:value="com.google.firebase.components.ComponentRegistrar" />
+116-->[com.google.firebase:firebase-storage:20.2.1] C:\Users\parim\.gradle\caches\transforms-3\34501a3ab929e5765642517634aaa5ee\transformed\firebase-storage-20.2.1\AndroidManifest.xml:34:17-82
+117            <meta-data
+117-->[com.google.firebase:firebase-common-ktx:20.3.1] C:\Users\parim\.gradle\caches\transforms-3\1bdbe47ea9ff4013f017beb96df6b9b3\transformed\firebase-common-ktx-20.3.1\AndroidManifest.xml:14:13-16:85
+118                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+118-->[com.google.firebase:firebase-common-ktx:20.3.1] C:\Users\parim\.gradle\caches\transforms-3\1bdbe47ea9ff4013f017beb96df6b9b3\transformed\firebase-common-ktx-20.3.1\AndroidManifest.xml:15:17-113
+119                android:value="com.google.firebase.components.ComponentRegistrar" />
+119-->[com.google.firebase:firebase-common-ktx:20.3.1] C:\Users\parim\.gradle\caches\transforms-3\1bdbe47ea9ff4013f017beb96df6b9b3\transformed\firebase-common-ktx-20.3.1\AndroidManifest.xml:16:17-82
+120        </service>
+121
+122        <activity
+122-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\parim\.gradle\caches\transforms-3\9d8cf2c487b3a3a7e76c2e8e1e745f7c\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+123            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+123-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\parim\.gradle\caches\transforms-3\9d8cf2c487b3a3a7e76c2e8e1e745f7c\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+124            android:exported="false"
+124-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\parim\.gradle\caches\transforms-3\9d8cf2c487b3a3a7e76c2e8e1e745f7c\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+125            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+125-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\parim\.gradle\caches\transforms-3\9d8cf2c487b3a3a7e76c2e8e1e745f7c\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+126
+127        <provider
+127-->[com.google.firebase:firebase-common:20.3.2] C:\Users\parim\.gradle\caches\transforms-3\d5e0b8bcedbc45e44d700028737512ef\transformed\firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+128            android:name="com.google.firebase.provider.FirebaseInitProvider"
+128-->[com.google.firebase:firebase-common:20.3.2] C:\Users\parim\.gradle\caches\transforms-3\d5e0b8bcedbc45e44d700028737512ef\transformed\firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+129            android:authorities="com.example.coeta.firebaseinitprovider"
+129-->[com.google.firebase:firebase-common:20.3.2] C:\Users\parim\.gradle\caches\transforms-3\d5e0b8bcedbc45e44d700028737512ef\transformed\firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+130            android:directBootAware="true"
+130-->[com.google.firebase:firebase-common:20.3.2] C:\Users\parim\.gradle\caches\transforms-3\d5e0b8bcedbc45e44d700028737512ef\transformed\firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+131            android:exported="false"
+131-->[com.google.firebase:firebase-common:20.3.2] C:\Users\parim\.gradle\caches\transforms-3\d5e0b8bcedbc45e44d700028737512ef\transformed\firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+132            android:initOrder="100" />
+132-->[com.google.firebase:firebase-common:20.3.2] C:\Users\parim\.gradle\caches\transforms-3\d5e0b8bcedbc45e44d700028737512ef\transformed\firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+133
+134        <meta-data
+134-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\parim\.gradle\caches\transforms-3\1fc68120dd3fdf196d75e6724d2fdc00\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+135            android:name="com.google.android.gms.version"
+135-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\parim\.gradle\caches\transforms-3\1fc68120dd3fdf196d75e6724d2fdc00\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+136            android:value="@integer/google_play_services_version" />
+136-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\parim\.gradle\caches\transforms-3\1fc68120dd3fdf196d75e6724d2fdc00\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+137
+138        <provider
+138-->[androidx.emoji2:emoji2:1.2.0] C:\Users\parim\.gradle\caches\transforms-3\4e0d57b59a48b0b47976dac5d8cbd717\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+139            android:name="androidx.startup.InitializationProvider"
+139-->[androidx.emoji2:emoji2:1.2.0] C:\Users\parim\.gradle\caches\transforms-3\4e0d57b59a48b0b47976dac5d8cbd717\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+140            android:authorities="com.example.coeta.androidx-startup"
+140-->[androidx.emoji2:emoji2:1.2.0] C:\Users\parim\.gradle\caches\transforms-3\4e0d57b59a48b0b47976dac5d8cbd717\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+141            android:exported="false" >
+141-->[androidx.emoji2:emoji2:1.2.0] C:\Users\parim\.gradle\caches\transforms-3\4e0d57b59a48b0b47976dac5d8cbd717\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+142            <meta-data
+142-->[androidx.emoji2:emoji2:1.2.0] C:\Users\parim\.gradle\caches\transforms-3\4e0d57b59a48b0b47976dac5d8cbd717\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+143                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+143-->[androidx.emoji2:emoji2:1.2.0] C:\Users\parim\.gradle\caches\transforms-3\4e0d57b59a48b0b47976dac5d8cbd717\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+144                android:value="androidx.startup" />
+144-->[androidx.emoji2:emoji2:1.2.0] C:\Users\parim\.gradle\caches\transforms-3\4e0d57b59a48b0b47976dac5d8cbd717\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+145            <meta-data
+145-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\parim\.gradle\caches\transforms-3\7f99fec45baa6b482cb18a0f870840bf\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+146                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+146-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\parim\.gradle\caches\transforms-3\7f99fec45baa6b482cb18a0f870840bf\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+147                android:value="androidx.startup" />
+147-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\parim\.gradle\caches\transforms-3\7f99fec45baa6b482cb18a0f870840bf\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+148        </provider>
+149    </application>
+150
+151</manifest>
