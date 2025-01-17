@@ -100,11 +100,3 @@ efficiently.
 
 ASK US FOR HELP!
  :---- parimalbhawane@gmail.com
-
-
-guidance or not.
-
-The given tasks may seem very easy or very difficult. We expect you to
-approach the tasks with professional diligence and give them the attention
-
-they deserve.
